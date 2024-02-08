@@ -1,4 +1,2 @@
-# Hello-World-
-This repository is for practicing the GitHub Flow
-Hi, my name is Regulus, I like to watch movies and tv shows, read books, and swim. 
-
+1. I took computer studies because coding is something that interests me. I think it is amazing how a couple of lines of code can make a system do what you want - almost as if you are giving a person instructions. I want to learn the basics of coding; lists, functions, etc. so that I can later move on to bigger things.
+2. What I see in almost every app is a button that can be clicked on with the mouse. I would like to figure out how to code buttons like that. I also think it is interesting when the code can interact with the user. 
